@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Aryan
 
-[![Resume](https://img.shields.io/badge/Resume-View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)][[resume.pdf](https://github.com/aryanbhargavahere/aryanbhargavahere/blob/main/Aryan's%20Resume.pdf)]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN_URL](https://www.linkedin.com/in/aryanbhargava1))
+[![Resume](https://img.shields.io/badge/Resume-View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/aryanbhargavahere/aryanbhargavahere/blob/main/Aryan's%20Resume.pdf)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/aryanbhargava1))
 
 I am a Computer Science engineering undergraduate passionate about building robust mobile experiences, implementing decentralized architecture, and designing observable backend systems. My daily driver is Ubuntu Linux, and I specialize in utilizing local-first approaches for secure, scalable applications.
 
