@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Aryan
+# Hi there! 👋 I'm Aryan Bhargava
 
 [![Resume](https://img.shields.io/badge/Resume-View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/aryanbhargavahere/aryanbhargavahere/blob/main/Aryan's%20Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryanbhargava1)
