@@ -10,7 +10,7 @@ I am a Computer Science engineering undergraduate passionate about building robu
 
 ### 🛠️ Tech Stack & Tools
 
-*   **Mobile:** [Kotlin](https://kotlinlang.org/) | [Jetpack Compose](https://developer.android.com/compose) | Room DB | StateFlow | CameraX
+*   **Mobile:** [Kotlin](https://kotlinlang.org/) | [Jetpack Compose](https://developer.android.com/compose) | Room DB | StateFlow
 *   **Web3:** [Solidity](https://www.soliditylang.org/) | Eth-Brownie | Remix IDE
 *   **Backend & Infrastructure:** Node.js | OpenTelemetry | Prometheus
 *   **Environment & Workflows:** Ubuntu Linux | Markdown (Obsidian)
