@@ -1,30 +1,31 @@
 # Hi there! 👋 I'm Aryan Bhargava
 
-[![Resume](https://img.shields.io/badge/Resume-View_Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/aryanbhargavahere/aryanbhargavahere/blob/main/Aryan's%20Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryanbhargava1)
+I am a Computer Science engineering undergraduate passionate about building robust mobile applications, decentralized Web3 architecture, and highly concurrent real-time backend systems.
 
-I am a Computer Science engineering undergraduate passionate about building robust mobile experiences, implementing decentralized architecture, and designing observable backend systems.
+### 🛠️ Tech Stack 
 
-### 🛠️ Tech Stack & Tools
-
-**Mobile & Machine Learning**<br>
+**Mobile & Languages**<br>
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Web3 & Backend**<br>
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+**Backend & Real-Time**<br>
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socket.io&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
-**Environment & Infrastructure**<br>
+**Web3 & Environment**<br>
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
-### 🚀 Technical Focus & Projects
-* **Native Android Development:** Building performant, local-first applications utilizing clean architecture.
-* **Mobile Machine Learning:** Integrating real-time on-device image analysis and offline inference using TensorFlow Lite and CameraX for specialized detection and classification models.
-* **Web3 & Smart Contracts:** Developing, testing, and deploying EVM-compatible contracts.
-* **Backend Observability:** Configuring distributed tracing and metrics monitoring within Node.js microservice environments using OpenTelemetry and Prometheus.
+### 🚀 Technical Focus
+
+* **Native Android Development:** Building performant applications utilizing Jetpack Compose, MVVM, Coroutines, and Room DB.
+* **Backend & Real-Time Systems:** Designing highly concurrent backends and real-time communication layers using Go (Golang) and Gorilla WebSockets.
+* **Web3 & Smart Contracts:** Developing and testing EVM-compatible smart contracts utilizing Solidity, Brownie, and Web3j.
 
 ### 📫 Let's Connect
-I am always open to discussing mobile ML integration, decentralized architectures, or backend observability!
+
+I am always open to discussing real-time backend systems, decentralized architectures, or advanced Android development!
